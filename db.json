@@ -4,25 +4,37 @@
     "nome": "Paulo G",
     "cpf": "07007007007",
     "rg": "88888888",
-    "email": "teste@teste.com.br"
+    "email": "teste@teste.com.br",
+    "telefone_fixo": "3729527643",
+    "celular": "37993264562",
+    "senha": "123"
   },
   {
     "nome": "renato",
     "cpf": "07007007007",
     "rg": "88888888",
-    "email": "teste1@teste.com.br"
+    "email": "teste1@teste.com.br",
+    "telefone_fixo": "3729527643",
+    "celular": "37993264562",
+    "senha": "123"
   },
   {
     "nome": "Pedro",
     "cpf": "07007007007",
     "rg": "88888888",
-    "email": "teste2@teste.com.br"
+    "email": "teste2@teste.com.br",
+    "telefone_fixo": "3729527643",
+    "celular": "37993264562",
+    "senha": "123"
   },
   {
     "nome": "marcelo",
     "cpf": "07007007007",
     "rg": "88888888",
-    "email": "teste3@teste.com.br"
+    "email": "teste3@teste.com.br",
+    "telefone_fixo": "3729527643",
+    "celular": "37993264562",
+    "senha": "123"
   }
   ] 
   
